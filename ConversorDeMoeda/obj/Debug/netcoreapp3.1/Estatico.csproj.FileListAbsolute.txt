@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.exe
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.deps.json
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.runtimeconfig.json
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.dll
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\bin\Debug\netcoreapp3.1\Estatico.pdb
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.AssemblyInfo.cs
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.dll
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.pdb
+C:\Users\mathe\source\repos\2021 - 2\Estatico\Estatico\obj\Debug\netcoreapp3.1\Estatico.genruntimeconfig.cache

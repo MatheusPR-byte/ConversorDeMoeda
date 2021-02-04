@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfo.cs
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.exe
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.deps.json
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.json
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Users\mathe\source\repos\2021 - 2\ConversorDeMoedaClasse\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.genruntimeconfig.cache
